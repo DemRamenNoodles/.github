@@ -25,10 +25,9 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 [**Jira Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/jira-helpdesk-ticketing-lab) — Help desk ticketing lab simulating a real IT support queue with ticket lifecycle, workflows, and common IT scenarios.
 
-[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study) — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.
+~~[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study)~~ *(In Progress — awaiting parts)* — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.
 
 ---
-
 🔗 **Get In Touch**
 
 Open to opportunities in IT support, infrastructure, and helpdesk roles. Let's connect!
