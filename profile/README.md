@@ -27,9 +27,10 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 [**Intune Helpdesk Case Study**](https://github.com/DemRamenNoodles/intune-helpdesk-casestudy) — A help desk case study simulating a real Intune MDM scenario — device enrollment, compliance policy enforcement, Conditional Access blocking, and full ticket remediation for a Windows endpoint.
 
+[**Proxmox Homelab**](https://github.com/DemRamenNoodles/proxmox-homelab) — Complete Proxmox virtualization setup guide with architecture diagrams, VM configs, and networking setup. Documentation from my homelab infrastructure project.
+
 ~~[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study)~~ *(In Progress — awaiting parts)* — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.
 
-[**Proxmox Homelab**](https://github.com/DemRamenNoodles/proxmox-homelab) — Complete Proxmox virtualization setup guide with architecture diagrams, VM configs, and networking setup. Documentation from my homelab infrastructure project.
 ---
 
 🔗 **Get In Touch**
