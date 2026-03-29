@@ -6,7 +6,7 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 📋 **Skills & Expertise**
 
-**Infrastructure & Virtualization:** Proxmox | Docker | VLANs | VPN | DNS/DHCP
+**Infrastructure & Virtualization:** VirtualBox | Docker | VLANs | VPN | DNS/DHCP
 
 **Systems Administration:** Windows Administration | Linux Administration | Active Directory | User/Group Management | Intune (MDM) | Okta (MFA/SSO)
 
