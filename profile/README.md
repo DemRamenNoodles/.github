@@ -8,7 +8,7 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 **Infrastructure & Virtualization:** VirtualBox | Docker | VLANs | VPN | DNS/DHCP
 
-**Systems Administration:** Windows Administration | Linux Administration | Active Directory | User/Group Management | Intune (MDM) | Entra ID | Okta (MFA/SSO)
+**Systems Administration:** Windows & Linux Administration | Active Directory | User/Group Management | Intune (MDM) | Entra ID | Okta (MFA/SSO)
 
 **Support & Tools:** Remote Access (SSH) | TeamViewer | PC Assembly & Troubleshooting
 
