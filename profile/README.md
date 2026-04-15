@@ -21,7 +21,7 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 💼 **Featured Work**
 
-[**Peppermint Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/peppermint-helpdesk-ticketing-lab) — Helpdesk ticketing lab documenting a shared drive access issue from intake to closure. Covers ticket triage, AD security group misconfiguration, root cause analysis, and resolution documentation.
+[**Peppermint Helpdesk Ticketing Lab**](https://github.comh/DemRamenNoodles/peppermint-helpdesk-ticketing-lab) — Helpdesk ticketing lab documenting a shared drive access issue from intake to closure. Covers ticket triage, AD security group misconfiguration, root cause analysis, and resolution documentation.
 
 [**Jira Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/jira-helpdesk-ticketing-lab) — Help desk ticketing lab simulating a real IT support queue with ticket lifecycle, workflows, and common IT scenarios.
 
@@ -29,7 +29,7 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 [**Active Directory Lab**](https://github.com/DemRamenNoodles/active-directory-lab) — Active Directory lab — domain controller, DNS, user provisioning, and domain join troubleshooting in a VirtualBox environment. Includes a full onboarding scenario with screenshots and a network diagram.
 
-[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study) — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.
+~~[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study) — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.~~ *(Work in Progress)*
 
 ---
 
