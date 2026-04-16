@@ -21,7 +21,7 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 💼 **Featured Work**
 
-[**Peppermint Helpdesk Ticketing Lab**](https://github.comh/DemRamenNoodles/peppermint-helpdesk-ticketing-lab) — Helpdesk ticketing lab documenting a shared drive access issue from intake to closure. Covers ticket triage, AD security group misconfiguration, root cause analysis, and resolution documentation.
+[**Peppermint Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/peppermint-helpdesk-ticketing-lab) — Helpdesk ticketing lab documenting a shared drive access issue from intake to closure. Covers ticket triage, AD security group misconfiguration, root cause analysis, and resolution documentation.
 
 [**Jira Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/jira-helpdesk-ticketing-lab) — Help desk ticketing lab simulating a real IT support queue with ticket lifecycle, workflows, and common IT scenarios.
 
