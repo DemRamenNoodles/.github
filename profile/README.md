@@ -1,6 +1,6 @@
 👤 **Andy Truong**
 
-Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in Management Information Systems, focused on designing scalable support systems and optimizing IT operations to meet the demands of growing organizations.
+Hey, I'm Andy. A Management Information Systems graduate from UMass Lowell focused on IT helpdesk and infrastructure. Okta certified across user management, AD integration, and MFA, and currently preparing for CompTIA A+ while documenting real helpdesk scenarios through homelab case studies.
 
 ---
 
@@ -14,22 +14,25 @@ Hey, I'm Andy. An IT Infrastructure and Helpdesk professional with a degree in M
 
 **Ticketing:** Peppermint | Jira
 
-**Programming Languages:** C | C++ | Java | SQL | HTML
+---
+
+🎓 **Certifications** · [View on Credly](https://www.credly.com/users/andy-truong.882c3bc4)
+
+**Earned (Okta):** Manage Users and Groups | Integrate with Active Directory | Implement MFA with Okta
+
+**In Progress:** CompTIA A+
 
 ---
 
-
 💼 **Featured Work**
+
+[**Active Directory Lab**](https://github.com/DemRamenNoodles/active-directory-lab) — Domain controller, DNS, user provisioning, and domain join troubleshooting in a VirtualBox environment. Includes a full onboarding scenario with screenshots and a network diagram.
+
+[**Intune Helpdesk Case Study**](https://github.com/DemRamenNoodles/intune-helpdesk-casestudy) — Help desk case study simulating a real Intune MDM scenario: device enrollment, compliance policy enforcement, Conditional Access blocking, and full ticket remediation for a Windows endpoint.
 
 [**Peppermint Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/peppermint-helpdesk-ticketing-lab) — Helpdesk ticketing lab documenting a shared drive access issue from intake to closure. Covers ticket triage, AD security group misconfiguration, root cause analysis, and resolution documentation.
 
 [**Jira Helpdesk Ticketing Lab**](https://github.com/DemRamenNoodles/jira-helpdesk-ticketing-lab) — Help desk ticketing lab simulating a real IT support queue with ticket lifecycle, workflows, and common IT scenarios.
-
-[**Intune Helpdesk Case Study**](https://github.com/DemRamenNoodles/intune-helpdesk-casestudy) — A help desk case study simulating a real Intune MDM scenario — device enrollment, compliance policy enforcement, Conditional Access blocking, and full ticket remediation for a Windows endpoint.
-
-[**Active Directory Lab**](https://github.com/DemRamenNoodles/active-directory-lab) — Active Directory lab — domain controller, DNS, user provisioning, and domain join troubleshooting in a VirtualBox environment. Includes a full onboarding scenario with screenshots and a network diagram.
-
-~~[**Asus G14 Hardware Repair Case Study**](https://github.com/DemRamenNoodles/Asus-G14-Hardware-Repair-Case-Study) — Hardware diagnostics, component replacement, and system optimization case study showcasing Tier 1/2 IT support competencies. Includes RAM upgrade, keyboard replacement, and battery service.~~ *(Work in Progress)*
 
 ---
 
