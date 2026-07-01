@@ -13,11 +13,15 @@ Hey, I'm Andy. A Management Information Systems graduate from UMass Lowell focus
 
 ---
 
-## Certifications
+## Certifications & Training
 
-**Earned (Okta):** Manage Users and Groups | Integrate with Active Directory | Implement MFA with Okta
+**Earned**
 
-**In Progress:** CompTIA A+
+- **Okta:** Manage Users and Groups, Integrate with Active Directory, Implement MFA with Okta
+
+**In Progress**
+
+- **CompTIA:** A+
 
 [View badges on Credly →](https://www.credly.com/users/andy-truong.882c3bc4)
 
